@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **server side scripting**
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/5190491629571771686](https://www.blogger.com/blog/posts/5190491629571771686)
 
